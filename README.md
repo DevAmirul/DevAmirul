@@ -76,7 +76,10 @@
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-ul-Islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="Amir-ul-Islam" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-ul-islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="amir-ul-islam" /></p>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-ul-Islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&bg_color=151515" alt="Amir-ul-Islam" /></p> -->
+
 
