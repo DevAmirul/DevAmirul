@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web development**
 
-- ⚡ Fun fact: **Always learning new things**
+ <!-- - ⚡ Fun fact: **Always learning new things** -->
 
 ## 🤝 Connect with me
 <p align="center" dir="auto">
@@ -69,8 +69,8 @@
 </td></tr></table>
   </div>
 
-## 📊 Most used languages
-
+##
+<!-- ## 📊 Most used languages -->
 <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-ul-islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="amir-ul-islam" />
 </p>
 
