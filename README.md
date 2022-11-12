@@ -11,7 +11,7 @@
 
 - 🖥️ I’m currently working on **LAMP stack**
 
-- 🌱 I’m currently learning **Nuxt.js & Vuex**
+- 🌱 I’m currently learning **Nuxt.js**
 
 - 💬 Ask me about **Web development**
 
