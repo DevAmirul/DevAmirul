@@ -8,7 +8,7 @@
 
 - 🎓 I studied **CSE** from Green University of Bangladesh
 
-- 🖥️ I’m currently working on **𝙋𝙃𝙋➜𝙇𝙖𝙧𝙖𝙫𝙚𝙡➜𝙅𝙖𝙫𝙖𝙨𝙘𝙧𝙞𝙥𝙩➜𝙑𝙪𝙚.𝙟𝙨**
+- 🖥️ I’m currently working on **𝙋𝙃𝙋➜𝙇𝙖𝙧𝙖𝙫𝙚𝙡➜𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩➜𝙑𝙪𝙚.𝙟𝙨**
 
 - 🌱 I’m currently learning **Nuxt.js**
 
