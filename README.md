@@ -73,8 +73,10 @@
 
 
 ## 📊 GitHub Stats 
-<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAmirul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="DevAmirul" />
+<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="DevAmirul" />
 </p>
+
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-ul-Islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&bg_color=151515" alt="Amir-ul-Islam" /></p> -->
