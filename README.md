@@ -69,17 +69,24 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" width="50" /></a>-->  
 </div>
 </td></tr></table>
-  </div>
+</div>
+
 
 
 ## 📊 GitHub Stats 
-<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&layout=compact&bg_color=151515" alt="DevAmirul" />
+<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff" alt="devamirul" />
 </p>
 
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-ul-Islam&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&locale=en&bg_color=151515" alt="Amir-ul-Islam" /></p> -->
+<!-- for stats color -->
+<!-- &bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff -->
+
+<!-- <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff" alt="devamirul" />
+</p> -->
+
+
 
 <!-- ## 🤝 Connect with me
 <div align="left">
