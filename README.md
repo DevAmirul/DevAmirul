@@ -31,11 +31,10 @@
 <div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://openclipart.org/download/272343/1486640684.svg" alt="JavaScript" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://pinia.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://pinia.vuejs.org/logo.svg" alt="pinia.vuejs" height="50" /></a> 
-<!-- <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a> -->
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" alt="vuetify" width="50" height="50"/> </a>
 <a href="https://laravel-livewire.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/51960834?s=100" alt="WordPress" width="50" height="50" /></a> 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg" alt="jQuery" width="50" height="50" /></a>
+<a href="https://pinia.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://pinia.vuejs.org/logo.svg" alt="pinia.vuejs" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" /></a>
 <!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="vuetify" width="50" height="50"/> </a> -->
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
@@ -60,7 +59,7 @@
 
 ### 📌 Tools:
 <div align="center">
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50" height="50" /></a>
+<!-- <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="50" height="50" /></a> -->
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" width="50" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50" />
