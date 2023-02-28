@@ -35,7 +35,6 @@
 <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" alt="vuetify" width="50" height="50"/> </a>
 <a href="https://laravel-livewire.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/51960834?s=100" alt="WordPress" width="50" height="50" /></a> 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg" alt="jQuery" width="50" height="50" /></a>
-
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" /></a>
 <!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="vuetify" width="50" height="50"/> </a> -->
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
