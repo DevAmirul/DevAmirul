@@ -65,6 +65,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50" />
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="50" height="50" /></a>
+<a href="https://httpie.io" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--B5hKz9Pq--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/4287/8a48b6c1-0bb2-49b6-9cc0-0a42eaee8cc4.png" alt="Bash" width="50" height="50" /></a>
 <!--</a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" width="50" /></a>-->  
 </div>
