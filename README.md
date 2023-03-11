@@ -37,11 +37,12 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg" alt="jQuery" width="50" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="vuetify" width="50" height="50"/> </a> -->
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
-<!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a> -->
-<!--<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50" /></a> -->
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="50" height="50" /></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
+
+<!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="vuetify" width="50" height="50"/> </a> -->
+<!--<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50" /></a> -->
+<!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a> -->
 </div>
 
 </td><td valign="top" width="33%">
