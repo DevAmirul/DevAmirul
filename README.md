@@ -42,7 +42,6 @@
 
 <!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="vuetify" width="50" height="50"/> </a> -->
 <!--<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="50" height="50" /></a> -->
-<!-- <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a> -->
 </div>
 
 </td><td valign="top" width="33%">
@@ -70,7 +69,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" width="50" height="50" />
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="50" height="50" /></a>
-<a href="https://httpie.io" target="_blank"><img style="margin: 10px" src="https://remoteok.com/cdn-cgi/image/height=400,quality=85/https://remoteok.com/assets/img/jobs/67473755efc2b6c4355843a9df5ccbd31634034787.png?1634034787" alt="Bash" width="50" height="50" /></a>
+<!-- <a href="https://httpie.io" target="_blank"><img style="margin: 10px" src="https://remoteok.com/cdn-cgi/image/height=400,quality=85/https://remoteok.com/assets/img/jobs/67473755efc2b6c4355843a9df5ccbd31634034787.png?1634034787" alt="Bash" width="50" height="50" /></a> -->
 <!--</a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" width="50" /></a>-->  
 </div>
