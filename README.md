@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nuxt.js**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **FullStack development**
 
  <!-- - ⚡ Fun fact: **Always learning new things** -->
 
