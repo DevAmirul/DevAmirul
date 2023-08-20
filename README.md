@@ -29,11 +29,11 @@
 
 ### 📌 Frontend:
 <div align="center">
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://openclipart.org/download/272343/1486640684.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
 <a href="https://pinia.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://pinia.vuejs.org/logo.svg" alt="pinia.vuejs" height="50" /></a>
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" alt="vuetify" width="50" height="50"/> </a>
 <a href="https://laravel-livewire.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/51960834?s=100" alt="WordPress" width="50" height="50" /></a> 
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/alpinejs-2.svg" alt="vuetify" width="50" height="50"/> </a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://icon-library.com/images/jquery-icon/jquery-icon-21.jpg" alt="jQuery" width="50" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
