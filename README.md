@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/8e0af9c31b7914f2523b6b613999597a8ba3dd4daa6ae0a4e0dfed4956d53cdc/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f6c696e65733d50617373696f6e6174652b53656c662d4c6561726e65723b416c776179732532306c6561726e696e672532306e65772532307468696e67732663656e7465723d747275652677696474683d353030266865696768743d3530" data-canonical-src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50" style="max-width: 100%;"></a>
 </p>
 
-## 💁‍♂️ About 
+## 💁‍♂️ About me
 
 - 🎓 I studied **CSE** from Green University of Bangladesh
 
