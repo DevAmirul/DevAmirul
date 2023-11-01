@@ -10,7 +10,7 @@
 
 - 🖥️ I’m currently working on **𝗟𝗶𝗻𝘂𝘅➜𝗣𝗛𝗣➜𝗟𝗮𝗿𝗮𝘃𝗲𝗹➜𝗖𝗼𝗱𝗲𝗜𝗴𝗻𝗶𝘁𝗲𝗿➜𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁➜𝗩𝘂𝗲.𝗷𝘀**
 
-- 🌱 I’m currently learning **Nuxt.js**
+- 🌱 I’m currently learning **PHPUnit test**
 
 - 💬 Ask me about **FullStack development**
 
