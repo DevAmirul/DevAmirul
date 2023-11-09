@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **PHPUnit test**
 
-- 💬 Ask me about **FullStack development**
+- 💬 Ask me about **Full-stack development**
 
  <!-- - ⚡ Fun fact: **Always learning new things** -->
 
