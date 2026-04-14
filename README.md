@@ -6,24 +6,25 @@
 </p>
 
 ## 💁‍♂️ About me
+- 💼 4 years of experience in software development, focused on building scalable and efficient systems.
 
 - 🎓 I studied **CSE** from Green University of Bangladesh
 
 - 🖥️ I’m currently working on **𝗟𝗶𝗻𝘂𝘅➜𝗣𝗛𝗣➜𝗟𝗮𝗿𝗮𝘃𝗲𝗹➜𝗖𝗼𝗱𝗲𝗜𝗴𝗻𝗶𝘁𝗲𝗿➜𝗪𝗼𝗿𝗱𝗽𝗿𝗲𝘀𝘀➜𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁➜𝗩𝘂𝗲.𝗷𝘀**
 
-- 🌱 I’m currently learning **PHPUnit test**
+- 🌱 I’m currently learning **System design & architecture**
 
 - 💬 Ask me about **Full-stack development**
 
  <!-- - ⚡ Fun fact: **Always learning new things** -->
-
+ <!--
 ## 🤝 Connect with me:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.Amirul)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DevAmirul) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DevAmirul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devamirul)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ItsAmirulIslam)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ItsAmirulIslam) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.amirul.islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ul-islam/)
+ -->
 
 
 ## 🔥 My Skill
@@ -78,33 +79,19 @@
 </td></tr></table>
 </div>
 
-
-
 ## 📊 GitHub Stats 
-<p align="left" dir="auto"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff" alt="devamirul" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devamirul&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff" alt="devamirul" /></p>
+<!-- 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devamirul&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=devamirul&theme=github_dark)
+-->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devamirul&layout=compact&theme=github_dark)
 
-
-
-
-
-
-<!-- for stats color -->
-<!-- &bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff -->
-
-<!-- <p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devamirul&show_icons=true&locale=en&layout=compact&bg_color=151515&icon_color=bb2acf&text_color=daf7dc&title_color=ffffff" alt="devamirul" />
-</p> -->
-
-
-
-<!-- ## 🤝 Connect with me
+<!--
+## 🤝 Connect with me
 <div align="left">
 <a href="https://fb.com/fb.Amirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.Amirul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Amir-ul-Islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amir-ul-Islam" height="30" width="40" /></a>
 <a href="https://twitter.com/tw_Amirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirul_is_" height="30" width="40" /></a>
 <a href="https://instagram.com/insta_Amirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirul_is_" height="30" width="40" /></a>
-</div> -->
-
-
+</div>
+-->
